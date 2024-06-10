@@ -1,7 +1,7 @@
 <h1>SLA Ticket Handling with Jira</h1>
 
 <h2>Description</h2>
-My project consists of an overview of the process that takes place when a ticket is submitted in Jira, a ticketing system that is freely available. The process would include the steps from: creating the ticket, receiving the ticket, assigning it to the correct agent, doing a post-incident write up and finally adding the incident to a knowledge base. For this project, I created an imaginary organisation and a simulated ticket for a printer ghosting problem. The aim of the project is to resolve the ticket, then add it to the knowledge base. Once it's in the knowledge base, I will simulate a customer to search for the issue in the customer portal, and search for an issue, which I should then see in the search bar the article which has been posted on how to resolve this specific problem.
+My project consists of an overview of the process that takes place when a ticket is submitted in Jira, a ticketing system that is freely available. The process would include the steps from: creating the ticket, receiving the ticket, assigning it to the correct agent, doing a post-incident write up and finally adding the incident to a knowledge base. For this project, I created an imaginary organisation and a simulated ticket for a printer ghosting problem. The aim of the project is to resolve the ticket, then add it to the knowledge base. Once it's in the knowledge base, I will simulate a customer to search for the issue in the customer portal, which I should then see in the search bar the article which I created on how to resolve this specific problem.
 
 <br />
 
