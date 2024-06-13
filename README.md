@@ -111,5 +111,5 @@ Through the search bar, the article for the printer ghosting resolution was avai
 <br />
 </p>
 <h2>Final Thoughts</h2>
-The project was able to: recieve a ticket, assign it to the correct agent, resolve the issue & complete a post incident write-up, and finally add this ticket into the knowledge base for future reference. If I was to improve on this project, I would look at adding multiple agents, as well as more tickets with varying priority, to see how ticket prioritisation may affect the queue for tickets. I would potentially look creating an automated ticket resolver, based on being able to access the knowledge base to match tickets to methods of resolution.
+The project was able to: recieve a ticket, assign it to the correct agent, resolve the issue & complete a post incident write-up, and finally add this ticket into the knowledge base for future reference. If I was to improve on this project, I would look at adding multiple agents, as well as more tickets with varying priority, to see how ticket prioritisation may affect the queue for tickets. I would potentially look for a way to automate part of the process, by perhaps automatically assigning different ticket types to specific agents, or automatically send a summary of a ticket in a short message for agent's to view before needing to go through a ticket manually.
 
